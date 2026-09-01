@@ -77,7 +77,7 @@ Client A generates an ephemeral ECDH P-256 key pair using the Web Crypto API.
 
 Client B connects and derives the AES-GCM-256 encryption context.
 
-![Client B Key Derivation](images/figure-4-client-b-key.png)
+![Client B Key Derivation](images/figure-4-client-b-keys.png)
 
 ### 4. Client A — Handshake Verification
 
