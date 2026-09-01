@@ -130,11 +130,7 @@ Different messages produce distinct ciphertexts due to the use of fresh IVs.
 
 # 🎥 Demo Video
 
-A complete demonstration of the application is available here:
-
-**[▶️ Watch the E2EE Chat Demo](VIDEO_LINK_HERE)**
-
-If the video is stored directly in this repository, replace the link above with the path to the uploaded video.
+A complete demonstration of the application is available upon request.
 
 ## 📌 Security Demonstration
 
@@ -158,19 +154,6 @@ The core principle is:
 
 > **The clients encrypt and decrypt. The server only relays.**
 
-## ⚠️ Project Scope
-
-This is an **educational E2EE demonstration** running locally.
-
-For production deployment, additional security mechanisms should be implemented, including:
-
-* authenticated public-key verification;
-* explicit replay protection;
-* secure session/key management;
-* HTTPS/WSS;
-* stronger endpoint security.
-
-
 ## 📄 License
 
-Add your chosen license here.
+All rights reserved. This code is for demonstration purposes only.   
